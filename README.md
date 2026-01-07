@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Vansh! 👋
 
-<!--
-**VanshDuhoon/VanshDuhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **1st Year B.Tech student specializing in Artificial Intelligence & Machine Learning**. I love exploring how data can solve real-world problems and I'm currently building my foundation in Computer Science and CyberSecurity.
 
-Here are some ideas to get you started:
+### About Me
+-  Pursuing B.Tech in AI & ML.
+-  Currently learning: **Linux**, **Python**, **Git/GitHub**, **C**, **Networking**.
+-  Goal: To build and Protect intelligent systems that make life easier.
+-  How to reach me: [www.linkedin.com/in/vanshsingh7]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack
+- **Languages:** Python, C/C++ (learning), Bash
+- **Tools:** VS Code, Git, GitHub, Linux Terminal
+- **Interests:** Machine Learning, Cyber Security, Competitive Programming
+
+###  Current Projects
+- **[OverTheWire-Bandit-Solutions](https://github.com/VanshDuhoon/OverTheWire-Bandit.git):** Documenting my journey through Linux wargames to master the command line.
