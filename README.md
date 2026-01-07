@@ -1,4 +1,4 @@
-# Hi there, I'm Vansh! 👋
+# Hi there, I'm Vansh! 
 
 I am a **1st Year B.Tech student specializing in Artificial Intelligence & Machine Learning**. I love exploring how data can solve real-world problems and I'm currently building my foundation in Computer Science and CyberSecurity.
 
